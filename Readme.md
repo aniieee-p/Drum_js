@@ -31,7 +31,7 @@ Welcome to **Anisha's Drum Studio**, an interactive virtual drum kit where you c
 
 ## 📸 Preview
 
-![Drum Kit Screenshot](./preview.png)
+![Drum Kit Screenshot](./screenshot.png)
 
 > _Click each drum or use your keyboard to create your own rhythm!_
 
